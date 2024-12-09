@@ -51,6 +51,8 @@ Plug 'leafgarland/typescript-vim'
 Plug 'vim-python/python-syntax'
 Plug 'hail2u/vim-css3-syntax'
 Plug 'morhetz/gruvbox'
+Plug 'tpope/vim-vinegar'
+Plug 'amadeus/vim-mjml'
 
 call plug#end()
 
@@ -101,5 +103,3 @@ nnoremap <leader>gs :Gstatus<CR>
 nnoremap <leader>gc :Gcommit<CR>   
 nnoremap <leader>gb :Gblame<CR>    
 nnoremap <leader>gl :Glog<CR>   
-
-
